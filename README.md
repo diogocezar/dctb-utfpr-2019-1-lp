@@ -2,6 +2,10 @@
 
 Olá pessoas, tudo certo por ai?
 
+<p align="center">
+  <img width="548" height="764" src="https://raw.githubusercontent.com/diogocezar/dctb-utfpr-2019-1-lp/master/cover.png">
+</p>
+
 Este repositório será utilizado para organizar todo o material da disciplina de Linguagem de Programação ministrada pelo professor Diogo Cezar no semestre 2019/01.
 
 - IF62B - Linguagem de Programação - A21 - Horários e Salas:
